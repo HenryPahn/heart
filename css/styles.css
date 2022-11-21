@@ -51,9 +51,3 @@ body {
     border-radius: 50px;
     box-shadow: 10px 10px 90px #f20044;
 }
-
-.contain p {
-    position: relative;
-    bottom: 10px;
-    color: #fff;
-}
